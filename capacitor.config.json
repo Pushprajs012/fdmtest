@@ -1,0 +1,17 @@
+{
+  "appId": "com.hammerbyte.fdm",
+  "appName": "FDM",
+  "webDir": "src",
+  "server": {
+    "url": "https://dev.sahasinstitute.com/",
+    "cleartext": true,
+    "allowNavigation": [
+      "*"
+    ]
+  },
+  "plugins": {
+    "SystemBars": {
+      "insetsHandling": "css"
+    }
+  }
+}

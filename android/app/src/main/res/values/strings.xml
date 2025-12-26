@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FDM</string>
+    <string name="title_activity_main">FDM</string>
+    <string name="package_name">com.hammerbyte.fdm</string>
+    <string name="custom_url_scheme">com.hammerbyte.fdm</string>
+</resources>
